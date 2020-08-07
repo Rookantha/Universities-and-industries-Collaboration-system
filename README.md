@@ -1,5 +1,5 @@
 # Universities-and-Industries-Collaboration-system
-Web-based application to Collaborate with Universities and industries using Java Servlet, JSP, JavaScript, Html, CSS, JDBC, MySQL.
+<h4>Web-based application to Collaborate with Universities and industries using Java Servlet, JSP, JavaScript, Html, CSS, JDBC, MySQL.</h4>
 
 <h2>Introduction</h2>
 
@@ -86,7 +86,7 @@ If user type is;<p>
 <p><img src="screenshot/m11.jpg"  alt="screenshot"/><p>
 
 <h5>University Home Page</h5>
-<p><img src="screenshot/m12.jpg"  alt="screenshot"/><p>
+<p><img src="screenshot/m12.png"  alt="screenshot"/><p>
 <p>By filling required fields in this form universities can post an university event by selecting target universities and subject<p>
 
 <h5>University Event Form</h5>
@@ -113,11 +113,11 @@ If user type is;<p>
    <p>Administrator can create accounts for the universities if they asked to do so.<p>
    
 <h5>Industry Registration by Administrator</h5>
-<p><img src="screenshot/m19.jpg"  alt="screenshot"/><p>
+<p><img src="screenshot/m19.png"  alt="screenshot"/><p>
    <p>Administrator can create accounts for the industry if they asked to do so.<p>
   
 <h5>Comment Area for the events</h5>  
-<p><img src="screenshot/m20.jpg"  alt="screenshot"/><p>
+<p><img src="screenshot/m20.png"  alt="screenshot"/><p>
 <p>Users can add the comments on each and every event posted by either by industries or by universities. This will be used as an evaluation feedback about the event conducted but it is not compulsory to fill and add a comment.<p>
 <p>All the comments that are posted will be displayed in tabular format as displayed in the screen shot above.<p>
 <p>Note:
