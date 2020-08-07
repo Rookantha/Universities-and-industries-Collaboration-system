@@ -1,0 +1,16 @@
+SMAP
+retrieveAppliedRegisters_jsp.java
+JSP
+*S JSP
+*F
++ 0 retrieveAppliedRegisters.jsp
+user/retrieveAppliedRegisters.jsp
+*L
+5,21:48
+26,17:70
+42,24:87
+65,3:111
+68,6:114,3
+74,12:132
+85,5:144
+*E

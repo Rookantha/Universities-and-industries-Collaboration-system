@@ -1,0 +1,20 @@
+SMAP
+colPostComment_jsp.java
+JSP
+*S JSP
+*F
++ 0 colPostComment.jsp
+events/colPostComment.jsp
+*L
+5,56:48
+61,17:105
+77,30:122
+106,3:152
+109,9:155,3
+118,12:182
+129,81:194
+209,5:275
+214,3:280,3
+217,11:289
+227,9:300
+*E
